@@ -1,0 +1,30 @@
+[{
+   "id":1,
+    "name":"Ohio Location",
+    "email":"support@computersolutions.fake",
+    "streetaddress":"333 Normal Rd",
+    "city":"Loveland",
+    "state":"OH",
+    "zip":45140
+  
+},
+{
+   "id":2,
+    "name":"Illinois Location",
+    "email":"support@computersolutions.fake",
+    "streetaddress":"972 Lucinda Ave",
+    "city":"Dekalb",
+    "state":"IL",
+    "zip":60115
+  
+},
+{
+   "id":3,
+    "name":"California Location",
+    "email":"support@computersolutions.fake",
+    "streetaddress":"30 Palatine",
+    "city":"Irvine",
+    "state":"CA",
+    "zip":92813
+}
+  ]

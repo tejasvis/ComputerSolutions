@@ -1,0 +1,22 @@
+[
+  {
+    "id":1,
+    "name":"Hardware Repairs",
+    "Description":"Computer Solutions, Inc offers multiple levels of service for you and your Company. Our Field Service Technicians are scheduled utilizing state-of-the-art software which  allows you to request a service call, see when the Technician is scheduled, and follow  the progress of his work.",
+    "image":"dreamstimemedium_6606292.jpg"
+    },
+    
+  {
+    "id":2,
+    "name":"Virus Removal",
+    "Description":"Computer Solutions, Inc offers multiple levels of service for you and your Company. Our Field Service Technicians are scheduled utilizing state-of-the-art software which  allows you to request a service call, see when the Technician is scheduled, and follow  the progress of his work.",
+    "image":"dreamstimemedium_6606292.jpg"
+    },
+  {
+    "id":3,
+    "name":"System Tuen up",
+    "Description":"Computer Solutions, Inc offers multiple levels of service for you and your Company. Our Field Service Technicians are scheduled utilizing state-of-the-art software which  allows you to request a service call, see when the Technician is scheduled, and follow  the progress of his work.",
+    "image":"dreamstimemedium_6606292.jpg"
+    }
+  
+  ]

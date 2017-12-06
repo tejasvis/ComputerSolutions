@@ -1,0 +1,32 @@
+
+      <!-- Jumbotron -->
+      <div class="jumbotron">
+        <div class="row">
+          <div class="col-md-4">
+            <img src="http://www.fyldecomputersolutions.co.uk/uploads/images/dreamstimemedium_6606292.jpg"  >
+          </div>
+              <div class="col-md-8">
+        <h1>Computer Solutions!</h1>
+        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.</p>
+       <!-- <p><a class="btn btn-lg btn-success" href="#" role="button">Get started today</a></p>-->
+            </div>
+        </div>
+      </div>
+
+      <!-- Example row of columns -->
+   <div ng-repeat="service in services">      
+          
+          <div class="row service">
+            
+                <div class="col-md-2">
+                    <img ng-src="http://www.fyldecomputersolutions.co.uk/uploads/images/{{service.image}}">
+                </div>
+                <div class="col-md-10">
+                        <h3>{{service.name}}</h3>
+                        <p>{{service.Description}} </p>
+                </div>
+            
+
+
+          </div>
+</div> 

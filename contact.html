@@ -1,0 +1,16 @@
+
+          <h2>Contact</h2>
+          <h3>Locations:</h3>
+          
+          <p>
+            Please email at :{{location.email}}</p>
+           <div ng-repeat="location in locations"> 
+            <ul >
+                <li>{{location.name}}</li>
+                <li >{{location.streetaddress}}</li>
+                <li>{{location.city}}</li>
+               <li>{{location.state}} , {{location.zip}}</li>
+               
+            </ul>
+          
+</div>
